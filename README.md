@@ -8,9 +8,9 @@ It contains notes on **HTML**, **CSS**, **Git** and **JavaScript**.
 
 ## Badges
 
-<a href="https://github.com/berta-rf/prework-study-guide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/berta-rf/prework-study-guide?style=for-the-badge"></a>
-
 <a href="https://github.com/berta-rf/prework-study-guide/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/berta-rf/prework-study-guide?style=for-the-badge"></a>
+
+<a href="https://github.com/berta-rf/prework-study-guide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/berta-rf/prework-study-guide?style=for-the-badge"></a>
 
 ## Installation
 
@@ -30,5 +30,7 @@ N/A
 ## License
 
 Licensed under the **MIT license**.
+
+<a href="https://github.com/berta-rf/prework-study-guide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/berta-rf/prework-study-guide?style=for-the-badge"></a>
 
 
